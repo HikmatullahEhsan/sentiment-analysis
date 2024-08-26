@@ -1,0 +1,302 @@
+[
+    {
+        "comment": "The product broke after just one use.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It arrived with several parts missing.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The instructions were unclear and confusing.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It didn\u00e2\u20ac\u2122t meet my expectations at all.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The quality is far below what I anticipated.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product stopped working after a few days.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s overpriced for what it offers.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The customer service was unhelpful when I had an issue.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It left a mess that was hard to clean up.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product had a strange odor when I opened it.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It didn\u00e2\u20ac\u2122t perform as advertised.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s very noisy and disruptive.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The design is impractical and awkward.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It arrived late and was poorly packaged.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product is difficult to use.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s not durable and feels cheap.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The color wasn\u00e2\u20ac\u2122t as shown in the pictures.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s too bulky and hard to store.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product malfunctioned shortly after purchase.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s uncomfortable to use for extended periods.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product didn\u00e2\u20ac\u2122t fit the description online.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It made a strange noise during operation.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s very complicated to assemble.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The battery life is disappointingly short.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It arrived with scratches and dents.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "It performs exactly as advertised.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product is incredibly easy to use.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The design is sleek and modern.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product is compact and easy to store.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The customer service was excellent and responsive.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The color options are vibrant and true to the pictures.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product fits perfectly in the designated space.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product is very user-friendly.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The price is reasonable for the quality.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s a great value for the money.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product is versatile and useful in many situations.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s made from high-quality materials.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product is very lightweight and portable.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s comfortable to use for long periods.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The assembly process was straightforward.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product works quietly and efficiently.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s easy to clean and maintain.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The performance has been consistent and reliable.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product is a typical choice in its category.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s a great addition to my collection.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product arrived on time and well-packaged.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product is a good balance of functionality and aesthetics.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It performs reliably under different conditions.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product has a long-lasting battery life.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product arrived as described.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It functions as expected.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product has a standard design.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s neither particularly good nor bad.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The packaging was adequate.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It works in a basic, functional way.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product is average in terms of performance.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It doesn\u00e2\u20ac\u2122t stand out among similar products.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The assembly process took some time.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It requires regular maintenance.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The color options are limited.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It serves its purpose without any frills.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product has a basic warranty.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The design is functional but not particularly stylish.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s neither highly recommended nor discouraged.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product is neither better nor worse than competitors.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product\u00e2\u20ac\u2122s durability is standard.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The customer service response time was average.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product is average in terms of usability.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product is a regular option with no unique elements.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It has an ordinary design and appearance.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The price point is standard for similar products.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "The product\u00e2\u20ac\u2122s features are common for this type.",
+        "Predicted_Sentiment": "Positive"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s a usual option with no standout qualities.",
+        "Predicted_Sentiment": "Neutral"
+    },
+    {
+        "comment": "The product\u00e2\u20ac\u2122s functionality is basic but adequate.",
+        "Predicted_Sentiment": "Negative"
+    },
+    {
+        "comment": "It\u00e2\u20ac\u2122s an average choice for everyday needs.",
+        "Predicted_Sentiment": "Neutral"
+    }
+]

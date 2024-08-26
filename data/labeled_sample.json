@@ -1,0 +1,5 @@
+[
+    {"comment": "The product broke after just one use.", "sentiment": "Negative"},
+    {"comment": "I love this product!", "sentiment": "Positive"},
+    {"comment": "It's okay, nothing special.", "sentiment": "Neutral"}
+]
