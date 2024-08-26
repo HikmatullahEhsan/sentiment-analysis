@@ -1,0 +1,31 @@
+{
+    "folders": [
+		{
+			"name": "ai-projects",
+			"path": "."
+		},
+		{
+			"name": "NLP",
+			"path": "../NLP"
+		},
+		{
+			"name": "website",
+			"path": "../website"
+		},
+		{
+			"name": "rest-api-rendering-with-reactjs",
+			"path": "../rest-api-rendering-with-reactjs"
+		},
+		{
+			"name": "home-page",
+			"path": "../home-page"
+		},
+		{
+			"name": "node-mysql-insert",
+			"path": "../node-mysql-insert"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "qmars-project"
+    }
+}
